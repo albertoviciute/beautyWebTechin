@@ -1,1 +1,1 @@
-# excursions
+# Beauty Web project
